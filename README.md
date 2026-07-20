@@ -1,2 +1,4 @@
-# my-first-project
-learning GitHub on Android 
+
+# My First Project
+
+I am learning GitHub on Android.
