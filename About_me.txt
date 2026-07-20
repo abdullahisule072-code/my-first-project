@@ -1,0 +1,3 @@
+My name is Audu.
+I am learning Android app development.
+I am learning GitHub.
